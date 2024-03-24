@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import ttk
 
 root = Tk()
+
 root.title("Login")
 
 ttk.Label(root, text= 'Username').place(x=20, y=10)
